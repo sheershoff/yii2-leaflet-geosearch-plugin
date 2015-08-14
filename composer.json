@@ -28,7 +28,7 @@
         "source": "https://github.com/2amigos/yii2-leaflet-geosearch-plugin"
     },
     "require": {
-        "2amigos/yii2-leaflet-extension": "dev-sheershoff-patch-public-js-map"
+        "2amigos/yii2-leaflet-extension": "dev-sheershoff-patches"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*"
